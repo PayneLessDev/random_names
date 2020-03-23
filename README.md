@@ -16,4 +16,4 @@ The program was tested on using Ruby 2.7.0.
 | :--------------- | :-------------------------------- |
 | ```tty-table```  | Formatting output as a data table |
 | ```tty-prompt``` | Used for prompting user           |
-| ```pastel````    | Used for text highlighting        |
+| ```pastel```     | Used for text highlighting        |
